@@ -6,7 +6,7 @@
 ## В проект нужны:
 Разработчики интерфесов на python(в приоритете на kivy), дизайнеры интерфейсов ui ux, и люди, владеющие библиотекой xmpp в python
 ## Контакты:
-Ник: Metra<br>
+Ник: Metra<br><br>
 В приоритете для меня мессенджер <a href="https://f-droid.org/en/packages/eu.siacs.conversations/">Conversations</a>, работающий по протоколу xmpp, мой xmpp адрес: 
 * ghost_in_the_house@creep.im (шифрование OMEMO)
 # Остальные контакты
